@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/PinApp/">
+    <file alias="Main.qml">/Users/christopher/PinApp/PinApp/Main.qml</file>
+    <file alias="Welcome.qml">/Users/christopher/PinApp/PinApp/Welcome.qml</file>
+  </qresource>
+</RCC>
+

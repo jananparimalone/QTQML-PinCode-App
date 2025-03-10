@@ -1,0 +1,14 @@
+-rootPath
+/Users/christopher/PinApp/PinApp
+-cmake-output
+-output-file
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/.qt/qml_imports/appPinApp_conf.cmake
+-importPath
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/PinApp
+-importPath
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug
+-importPath
+/Users/christopher/Qt/6.8.2/macos/qml
+-qrcFiles
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qmake_PinApp.qrc
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/appPinApp_raw_qml_0.qrc

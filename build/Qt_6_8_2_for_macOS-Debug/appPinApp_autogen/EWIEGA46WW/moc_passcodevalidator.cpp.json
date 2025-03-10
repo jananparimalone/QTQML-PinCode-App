@@ -1,0 +1,32 @@
+{
+    "classes": [
+        {
+            "className": "PasscodeValidator",
+            "lineNumber": 8,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "enteredPin",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "validatePin",
+                    "returnType": "bool"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "PasscodeValidator",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "passcodevalidator.h",
+    "outputRevision": 68
+}

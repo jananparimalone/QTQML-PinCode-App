@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/PinApp">
+    <file alias="qmldir">/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/PinApp/qmldir</file>
+  </qresource>
+</RCC>
+

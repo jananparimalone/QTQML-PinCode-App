@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>src/logo.png</file>
+        <file>src/ParaglidingSamoyed.mp4</file>
+        <file>src/passcode.txt</file>
+    </qresource>
+</RCC>

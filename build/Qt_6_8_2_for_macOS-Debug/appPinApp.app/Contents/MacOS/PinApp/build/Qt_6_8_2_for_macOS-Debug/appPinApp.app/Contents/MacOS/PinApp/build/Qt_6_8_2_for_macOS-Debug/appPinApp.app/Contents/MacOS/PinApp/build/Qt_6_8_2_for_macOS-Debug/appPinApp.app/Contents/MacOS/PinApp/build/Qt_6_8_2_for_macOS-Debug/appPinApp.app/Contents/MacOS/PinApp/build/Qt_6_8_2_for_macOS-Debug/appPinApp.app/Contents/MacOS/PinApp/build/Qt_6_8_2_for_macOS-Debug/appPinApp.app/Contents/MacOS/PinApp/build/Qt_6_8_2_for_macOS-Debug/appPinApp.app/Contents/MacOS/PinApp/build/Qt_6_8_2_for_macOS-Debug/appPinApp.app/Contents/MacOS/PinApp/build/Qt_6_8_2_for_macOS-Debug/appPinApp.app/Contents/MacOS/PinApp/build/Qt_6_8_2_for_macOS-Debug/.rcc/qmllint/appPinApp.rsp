@@ -1,0 +1,11 @@
+--bare
+-I
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug
+-I
+/Users/christopher/Qt/6.8.2/macos/qml
+--resource
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qmake_PinApp.qrc
+--resource
+/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/appPinApp_raw_qml_0.qrc
+/Users/christopher/PinApp/PinApp/Main.qml
+/Users/christopher/PinApp/PinApp/Welcome.qml

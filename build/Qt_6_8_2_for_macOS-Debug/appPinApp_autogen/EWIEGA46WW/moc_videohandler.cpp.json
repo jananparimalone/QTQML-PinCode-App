@@ -1,0 +1,44 @@
+{
+    "classes": [
+        {
+            "className": "VideoHandler",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "filePath",
+                            "type": "QString"
+                        }
+                    ],
+                    "index": 0,
+                    "name": "playVideo",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "stopVideo",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "getPlayer",
+                    "returnType": "QMediaPlayer*"
+                }
+            ],
+            "object": true,
+            "qualifiedClassName": "VideoHandler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "videohandler.h",
+    "outputRevision": 68
+}

@@ -1,0 +1,6 @@
+module PinApp
+typeinfo appPinApp.qmltypes
+prefer :/qt/qml/PinApp/
+Main 1.0 Main.qml
+Welcome 1.0 Welcome.qml
+

@@ -1,0 +1,1262 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appPinApp.app/Contents/MacOS/appPinApp"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6/Qt6Config.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake",
+			"/Applications/CMake.app/Contents/share/cmake-3.28/Modules/CMakeFindDependencyMacro.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"/Users/christopher/Qt/6.8.2/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 945,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 646,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 695,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 190,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 62,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 43,
+				"parent" : 10
+			},
+			{
+				"file" : 9,
+				"parent" : 14
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 45,
+				"parent" : 15
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 17
+			},
+			{
+				"file" : 6,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 55,
+				"parent" : 19
+			},
+			{
+				"file" : 5,
+				"parent" : 20
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 62,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1241,
+				"parent" : 23
+			},
+			{
+				"command" : 5,
+				"file" : 10,
+				"line" : 591,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 26
+			},
+			{
+				"file" : 12,
+				"parent" : 27
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 58,
+				"parent" : 28
+			},
+			{
+				"file" : 11,
+				"parent" : 29
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 62,
+				"parent" : 30
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 32
+			},
+			{
+				"file" : 14,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 14,
+				"line" : 55,
+				"parent" : 34
+			},
+			{
+				"file" : 13,
+				"parent" : 35
+			},
+			{
+				"command" : 6,
+				"file" : 13,
+				"line" : 62,
+				"parent" : 36
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 2
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 145,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 39
+			},
+			{
+				"file" : 16,
+				"parent" : 40
+			},
+			{
+				"command" : 7,
+				"file" : 16,
+				"line" : 57,
+				"parent" : 41
+			},
+			{
+				"file" : 15,
+				"parent" : 42
+			},
+			{
+				"command" : 6,
+				"file" : 15,
+				"line" : 62,
+				"parent" : 43
+			},
+			{
+				"command" : 15,
+				"file" : 10,
+				"line" : 896,
+				"parent" : 24
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 3448,
+				"parent" : 45
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 2859,
+				"parent" : 46
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 3454,
+				"parent" : 45
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 2859,
+				"parent" : 48
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 20,
+				"file" : 17,
+				"line" : 1,
+				"parent" : 50
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 823,
+				"parent" : 51
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 52
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 53
+			},
+			{
+				"command" : 16,
+				"file" : 10,
+				"line" : 4324,
+				"parent" : 54
+			},
+			{
+				"command" : 13,
+				"file" : 10,
+				"line" : 4102,
+				"parent" : 55
+			},
+			{
+				"command" : 22,
+				"file" : 10,
+				"line" : 785,
+				"parent" : 24
+			},
+			{
+				"command" : 21,
+				"file" : 10,
+				"line" : 3830,
+				"parent" : 57
+			},
+			{
+				"command" : 21,
+				"file" : 10,
+				"line" : 3855,
+				"parent" : 57
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 3655,
+				"parent" : 57
+			},
+			{
+				"command" : 23,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 60
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3821,
+				"parent" : 57
+			},
+			{
+				"command" : 27,
+				"file" : 10,
+				"line" : 839,
+				"parent" : 24
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 63
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 64
+			},
+			{
+				"command" : 23,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 65
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 886,
+				"parent" : 24
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3175,
+				"parent" : 45
+			},
+			{
+				"command" : 28,
+				"file" : 10,
+				"line" : 3312,
+				"parent" : 45
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 1710,
+				"parent" : 69
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3368,
+				"parent" : 45
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3175,
+				"parent" : 45
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3368,
+				"parent" : 45
+			},
+			{
+				"command" : 27,
+				"file" : 10,
+				"line" : 3470,
+				"parent" : 45
+			},
+			{
+				"command" : 26,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 74
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 75
+			},
+			{
+				"command" : 23,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 76
+			},
+			{
+				"command" : 29,
+				"file" : 0,
+				"line" : 817,
+				"parent" : 51
+			},
+			{
+				"command" : 23,
+				"file" : 0,
+				"line" : 2212,
+				"parent" : 78
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -fcolor-diagnostics"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 38,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_MULTIMEDIA_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMETA_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLWORKERSCRIPT_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_WIDGETS_LIB"
+				}
+			],
+			"frameworks" : 
+			[
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtCore.framework"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQml.framework"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtNetwork.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQuick.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtGui.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlMeta.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlModels.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlWorkerScript.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtOpenGL.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtWidgets.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtMultimedia.framework"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug/appPinApp_autogen/include"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "/Users/christopher/PinApp/PinApp"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQml.framework/Versions/A/Headers/6.8.2"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQml.framework/Versions/A/Headers/6.8.2/QtQml"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/6.8.2"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/Headers/6.8.2/QtCore"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtCore.framework/Headers"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/include"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQml.framework/Headers"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 59,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtNetwork.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQuick.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtGui.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlMeta.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlModels.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlWorkerScript.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtOpenGL.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtWidgets.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/christopher/Qt/6.8.2/macos/lib/QtMultimedia.framework/Headers"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					38
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				5,
+				7,
+				8,
+				11,
+				13,
+				14,
+				16,
+				17
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 47,
+			"id" : "appPinApp_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 49,
+			"id" : "appPinApp_copy_res::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 56,
+			"id" : "appPinApp_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appPinApp_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appPinApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appPinApp::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "."
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-F/Users/christopher/Qt/6.8.2/macos/lib",
+				"role" : "frameworkPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/christopher/Qt/6.8.2/macos/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQuick.framework/Versions/A/QtQuick",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtWidgets.framework/Versions/A/QtWidgets",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtMultimedia.framework/Versions/A/QtMultimedia",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQmlModels.framework/Versions/A/QtQmlModels",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtQml.framework/Versions/A/QtQml",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtOpenGL.framework/Versions/A/QtOpenGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtNetwork.framework/Versions/A/QtNetwork",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtGui.framework/Versions/A/QtGui",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "-framework OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 37,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 38,
+				"fragment" : "/Users/christopher/Qt/6.8.2/macos/lib/QtCore.framework/Versions/A/QtCore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework UniformTypeIdentifiers",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appPinApp",
+	"nameOnDisk" : "appPinApp",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				21,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				4,
+				5,
+				7,
+				8,
+				11,
+				13,
+				14,
+				16,
+				17
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				3,
+				12,
+				15,
+				19
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				9,
+				10
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				18,
+				20,
+				22
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/appPinApp_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/qrc_resources.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 61,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/meta_types/qt6apppinapp_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 62,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/apppinapp_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 66,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qrc_qmake_PinApp.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 67,
+			"path" : "passcodevalidator.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "passcodevalidator.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "FileReader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 67,
+			"path" : "FileReader.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 67,
+			"path" : "videohandler.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 67,
+			"compileGroupIndex" : 0,
+			"path" : "videohandler.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 68,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 70,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 71,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_Main_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 72,
+			"path" : "Welcome.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 73,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_Welcome_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 77,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qrc_appPinApp_raw_qml_0.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 79,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qmake_PinApp.qrc",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 79,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/PinApp/qmldir",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 79,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/appPinApp_raw_qml_0.qrc",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/appPinApp_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"path" : "resources.qrc",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/meta_types/qt6apppinapp_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/apppinapp_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qrc_qmake_PinApp.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.rcc/qmlcache/appPinApp_Welcome_qml.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/.qt/rcc/qrc_appPinApp_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/appPinApp_autogen/timestamp.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_2_for_macOS-Debug/meta_types/appPinApp_json_file_list.txt.rule",
+			"sourceGroupIndex" : 5
+		},
+		{
+			"backtrace" : 38,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 25,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 25,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6quick_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6gui_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6qmlmeta_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6qmlmodels_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6qmlworkerscript_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6opengl_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6widgets_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/christopher/Qt/6.8.2/macos/metatypes/qt6multimedia_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

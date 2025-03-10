@@ -1,0 +1,205 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e0dd1d3103b3f6ec0ad7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PinApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-c174b9bff794b48d2d70.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-3a4475f5897f8cbb99aa.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-6f783db744199cc530d8.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-8a9905bed436b079fcfa.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-e041b814005f3eb8bb73.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp-Debug-24e050c24a1fdce7814f.json",
+					"name" : "appPinApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_autogen-Debug-7bb96504ca1dafcc317b.json",
+					"name" : "appPinApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_autogen_timestamp_deps-Debug-c030b25d1ee71f3500f4.json",
+					"name" : "appPinApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_copy_qml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_copy_qml-Debug-568ba5658a18b44a1368.json",
+					"name" : "appPinApp_copy_qml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_copy_res::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_copy_res-Debug-f6d3465092e720e6d4e6.json",
+					"name" : "appPinApp_copy_res",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_qmlimportscan-Debug-c6d05fcec27fab9d3263.json",
+					"name" : "appPinApp_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_qmllint-Debug-e5ab9de30a8beb5ab30b.json",
+					"name" : "appPinApp_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_qmllint_json-Debug-11c8db527fa2e15c95c7.json",
+					"name" : "appPinApp_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_qmllint_module-Debug-162dc92879801e8bd377.json",
+					"name" : "appPinApp_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appPinApp_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appPinApp_qmltyperegistration-Debug-0045e5b32bcfe61799b0.json",
+					"name" : "appPinApp_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appPinApp_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appPinApp_aotstats_target-Debug-a13023142984039149f2.json",
+					"name" : "module_appPinApp_aotstats_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-68f2f29ae7853e4342bf.json",
+					"name" : "run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/christopher/PinApp/PinApp/build/Qt_6_8_2_for_macOS-Debug",
+		"source" : "/Users/christopher/PinApp/PinApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
